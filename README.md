@@ -19,6 +19,8 @@ Beercoding es un ejercicio de programación en equipo y un buen pretexto para co
 * El(los) administrador(es), por cada pull request recibido (aprobado o no), beben un trago.
 * __Si se aprueba y se hace merge del pull request, todos beben un trago.__
 
+### Opcional
+* Se recomienda instalar lolcommit [https://github.com/mroth/lolcommits](https://github.com/mroth/lolcommits).
 
 ## English
 Beercoding is a social programming exercise, where a group of developers work, drink beer and have fun together.
@@ -38,3 +40,6 @@ Beercoding is a social programming exercise, where a group of developers work, d
 * The original repo admin(s) must be aware of pull requests and provide immediate feeback on them.
 * Everytime a pull request is opened (approved or not), the original repo admin(s) should take a sip from their drink.
 * __If a pull request is approved and merged into master, everybody should take a sip from their drink!__
+
+### Optional
+* Recommended to install lolcommit [https://github.com/mroth/lolcommits](https://github.com/mroth/lolcommits).
