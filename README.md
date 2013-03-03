@@ -32,9 +32,9 @@ Beercoding is a social programming exercise, where a group of developers work, d
 * Every developer or a team, should pick a feature to work on.
 
 ### Game Rules
-* Everytime a developer makes a local commit, he should have a drink.
-* Everytime a developer pushes to his (or his team's) fork repo, he should have a drink.
-* Everytime a developer or a team finishes a feature or mini-feature (as long as it's functional), and opening a pull request to the upstream repo, he or his team should have a drink.
-* The original repo admin(s) must be aware of pull requests and provide immediate feedback on them.
-* Everytime a pull request is opened (approved or not), the original repo admin(s) should have a drink.
-* __If a pull request is approved and merged into master, everybody should have a drink.__
+* If you make a local commit, you take a sip from your drink.
+* If you push to the remote, you take a sip.
+* If you or your team finish a feature or mini-feature (as long as it's functional), and open a pull request to the upstream repo, you or your team take a sip.
+* The original repo admin(s) must be aware of pull requests and provide immediate feeback on them.
+* Everytime a pull request is opened (approved or not), the original repo admin(s) should take a sip from their drink.
+* __If a pull request is approved and merged into master, everybody should take a sip from their drink!__
